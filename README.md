@@ -1,111 +1,41 @@
-# Hi, I'm [Texasyumki] 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-9b59b6?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:you@example.com)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/yourusername)
+# Hi, I'm Texasyumki 👋
 
-Computer Science student / early-career developer passionate about building useful tools, learning new technologies, and turning ideas into real projects.
+**Linux Power User · Exploring Python & AI**
 
-- 🔭 Currently learning: [framework / Python / Ai]
-- 🌱 Focus areas: [web development, AI, backend, cybersecurity, etc.]
-- 💡 Interested in: [problem solving, software engineering, product design, data, cloud，Higher Mathematics.]
-- 🚀 Goal: [Learning AI]
-- 📫 Reach me: [bodulee0012@gmail.com]
+At home in Linux. Always curious about how things work.
 
----
+<p>
+  <img src="https://img.shields.io/badge/Linux-Power_User-181717?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux power user" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning Python" />
+  <img src="https://img.shields.io/badge/AI-Exploring-6366F1?style=flat-square" alt="Exploring AI" />
+</p>
 
-## About Me
+[GitHub](https://github.com/bodulee) · [Email](mailto:bodulee0012@gmail.com) · [X](https://x.com/Bodu248660)
 
-I’m a student developer who enjoys exploring software engineering, building projects, and learning by doing. I like understanding how things work under the hood and creating solutions that are practical, scalable, and easy to maintain.
-
-I enjoy:
-- Writing clean and readable code
-- Building projects that solve real problems
-- Learning new tools and frameworks
-- Collaborating with others and sharing ideas
-- Improving my problem-solving and engineering skills every day
+</div>
 
 ---
 
-## Top Skills
+## About me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+I'm a student developer with a strong command of Linux and a curiosity for what happens under the hood. I enjoy understanding systems, solving problems, and turning ideas into useful tools.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+Linux is my strongest area. I'm also learning Python, exploring AI, and deepening my understanding of mathematics.
 
-### Backend / Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## What I'm focused on
 
----
+| Area | Focus |
+| :--- | :--- |
+| **Linux** | My core strength and the center of my technical interests. |
+| **Python & AI** | Expanding my skills through learning and experimentation. |
+| **Mathematics** | Exploring the foundations behind the ideas and tools I use. |
 
-## Featured Projects
+## Let's connect
 
-### [Project 1 Name]
-A practical project built to solve a real problem or improve a workflow.
+Happy to exchange ideas about Linux, Python, and AI.
 
-- Built with: [Tech stack]
-- Highlights: [feature 1], [feature 2], [feature 3]
-- Repository: [link]
-- Live Demo: [link]
-
-### [Project 2 Name]
-A personal project focused on learning and experimenting with a new tool, framework, or concept.
-
-- Built with: [Tech stack]
-- Highlights: [feature 1], [feature 2], [feature 3]
-- Repository: [link]
-- Live Demo: [link]
-
-### [Project 3 Name]
-A project that showcases my problem-solving and software engineering growth.
-
-- Built with: [Tech stack]
-- Highlights: [feature 1], [feature 2], [feature 3]
-- Repository: [link]
-- Live Demo: [link]
-
----
-
-## Learning & Growth
-
-I’m constantly building, experimenting, and improving. Some of the areas I’m exploring include:
-
-- Web development and full-stack engineering
-- Algorithms and data structures
-- APIs and backend architecture
-- UI/UX and product thinking
-- Cloud basics and deployment
-- Data structures, software design, and clean code practices
-
----
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](Stay tuned...)
-- [Twitter / X](https://x.com/@Bodu248660)
-- [Email](bodulee0012@gmail.com)
+- **Email:** [bodulee0012@gmail.com](mailto:bodulee0012@gmail.com)
+- **X:** [@Bodu248660](https://x.com/Bodu248660)
+- **Code:** [Browse my repositories](https://github.com/bodulee?tab=repositories)
